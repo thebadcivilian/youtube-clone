@@ -20,10 +20,10 @@ function Sidebar() {
       <hr></hr>
       <SidebarRow icon={VideoLibraryOutlinedIcon} title="Library"></SidebarRow>
       <SidebarRow icon={HistoryOutlinedIcon} title="History"></SidebarRow>
-      <SidebarRow
+      {/* <SidebarRow
         icon={OndemandVideoOutlinedIcon}
         title="Your videos"
-      ></SidebarRow>
+      ></SidebarRow> */}
       <SidebarRow
         icon={WatchLaterOutlinedIcon}
         title="Watch later"
